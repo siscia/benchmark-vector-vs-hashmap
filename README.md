@@ -11,6 +11,9 @@ Spoiler, the HashMap turns out to be faster than the vector in most cases.
 The code is on github: https://github.com/siscia/benchmark-v...
 
 [criterion-doc](https://docs.rs/criterion/0.2.11/crit...)
+
 [criterion-homepage](https://bheisler.github.io/criterion....)
+
 [criterion-github](https://github.com/bheisler/criterion.rs)
+
 [criterion-crate](https://crates.io/crates/criterion)
